@@ -1,5 +1,7 @@
 # Simple Notes App for TWS Community
 This is a simple notes app built with React and Django.
+<img src="django-todo-app.png" alt="drawing" height="300" />
+
 
 ## Requirements
 1. Python 3.9
