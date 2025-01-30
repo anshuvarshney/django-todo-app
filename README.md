@@ -1,6 +1,5 @@
 # Simple Notes App for TWS Community
 This is a simple notes app built with React and Django.
-<img src="django-todo-app.png" alt="drawing" height="300" />
 
 
 ## Requirements
@@ -36,3 +35,7 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+<img src="django-todo-app.png" alt="drawing" height="400" />
+
+
+
